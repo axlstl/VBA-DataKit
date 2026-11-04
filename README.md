@@ -17,5 +17,5 @@ I quickly vibe-coded this documentation to make the library easier to understand
 
 Make sure to enable the **Microsoft Scripting Runtime** reference in the VBA Editor (*Tools → References*).
 You can then add the files to your VBA project in two ways:
-- **Drag and drop** the files directly into the VBA Editor with your workbook open (fastest method).
+- **Drag and drop** the files directly into the VBA Editor with your workbook (+ VBA-DataKit) opened (fastest method).
 - **Import** the files one by one using *File → Import File* (takes a bit longer).
